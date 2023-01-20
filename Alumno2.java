@@ -18,6 +18,7 @@ public class Alumno2 {
 		NIA = nIA;
 		this.genero = genero;
 	}
+	hoal==)==?
 
 	
 	
