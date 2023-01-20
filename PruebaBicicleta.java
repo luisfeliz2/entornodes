@@ -12,7 +12,7 @@ public class PruebaBicicleta {
 		System.out.println(bici1);
 		
 		
-		
+		System.out.println("hola");
 		
 		
 		
